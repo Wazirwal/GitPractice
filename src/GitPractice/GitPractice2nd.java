@@ -21,5 +21,11 @@ public class GitPractice2nd {
 		 System.out.println("This is from the local Repo");
 	 }
 
+	 
+	 public void calculation() {
+		 int a = 10;
+		 int b = 10;
+		 System.out.println(a+b);
+	 }
 }
 
