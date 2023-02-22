@@ -27,5 +27,10 @@ public class GitPractice2nd {
 		 int b = 10;
 		 System.out.println(a+b);
 	 }
+	
+	 public void calculation2() {
+		 int c = 20;
+		 int d = 20;
+		 System.out.println(c+d);
 }
 
